@@ -1,0 +1,25 @@
+{
+  "name": "js-mentor-npm",
+  "version": "1.0.0",
+  "description": "A sample project",
+  "main": "src/index.ts",
+  "repository": "git@github.com:blzaugg/js-mentor-npm.git",
+  "author": "",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "devDependencies": {
+    "@types/jest": "^23.3.9",
+    "@types/node": "^10.12.9",
+    "jest": "^23.6.0",
+    "prettier": "^1.15.2",
+    "ts-jest": "^23.10.4",
+    "ts-node": "^7.0.1",
+    "tslint": "^5.11.0",
+    "tslint-config-airbnb": "^5.11.1",
+    "tslint-config-prettier": "^1.16.0",
+    "typescript": "^3.1.6"
+  },
+  "dependencies": {}
+}
